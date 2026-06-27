@@ -69,7 +69,22 @@
 | 3 | | |
 | 4 | | |
 | 5 | | |
+## Sample Chunks
 
+**Chunk 1** — Source: `sweetwater_study_spots.txt`
+Being a top five public university, students at UF study a lot, so knowing your study spot options is important...Library W...
+
+**Chunk 2** — Source: `staygainesville_study_spots.txt`
+served weekdays. It's tradition, community, and convenience all rolled into one. Century Tower One of UF's most recognizable landmarks...
+
+**Chunk 3** — Source: `collegemagazine_coffee_shops.txt`
+homemade waffles pair perfectly with a hot vanilla latte. When driving down South Main St., stay on the lookout for Halo Potato Donuts...
+
+**Chunk 4** — Source: `uflpb_libwest_review.txt`
+floor mostly consists of administrative offices and solo seating scattered throughout the floor. You'll also find small, locked cubicles reserved for graduate students...
+
+**Chunk 5** — Source: `carlymccullough.txt`
+productive. It's nearly impossible not to feel inspired when immersed in the workings of Weimer Hall...
 ---
 
 ## Embedding Model
