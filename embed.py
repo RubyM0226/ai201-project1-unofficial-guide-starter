@@ -10,9 +10,9 @@ TOP_K         = 4
 
 # ── Test queries (3 of your 5 evaluation questions) ───────────────────────────
 TEST_QUERIES = [
-    "What do students say about noise levels at Library West during finals week?",
+    "What coffee shops do UF students recommend for studying?",
     "Is Pascal's Coffeehouse open late enough for a night study session?",
-    "What makes Newell Hall different from Library West as a study spot?",
+    "What do students say about studying outdoors at UF?",
 ]
 
 # ── Step 1: Load chunks ───────────────────────────────────────────────────────

@@ -75,12 +75,12 @@ https://www.reddit.com/r/ufl/comments/xnrfer/what_are_some_good_coffee_shopsplac
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | | What do students say about noise levels at Library West during finals week?
-Expected answer: It gets very crowded and loud during finals, hard to find a seat. It is better to go early or find an alternative like Norman or Smathers during that period.
+| 1 | | | What coffee shops do UF students recommend for studying?
+Expected answer: Everyone loves Opus and Pascal's. They are very close to campus and they are always packed. Opus has a location on campus and one close to campus.
 | 2 | | |  Is Pascal's Coffeehouse open late enough for a night study session?
 Expected answer: No — Pascal's closes at 5pm weekdays and 3pm Saturday, so it's not a good late-night option despite its great atmosphere.
-| 3 | | | What makes Newell Hall different from Library West as a study spot?
-Expected answer: Newell has more variety. It includes study stairs with outlets, isolated pods, and whiteboards. It also has a more social/collaborative feel compared to Library West's quiet cram atmosphere.
+| 3 | | | What do students say about studying outdoors at UF?
+Expected answer: Students love it, especially when the weather is nice. Plaza of the Americas is great for studying and spending time with friends. You won't see a lot of it during the winter months.
 | 4 | | | Do students recommend Opus Coffee at the Norman Hall location over other Opus locations?
 Expected answer: Yes because it's on the quieter outer edge of campus and is near sorority row, for those involved in Greek life. .
 | 5 | | | What are the downsides students mention about studying at Plaza of the Americas?
