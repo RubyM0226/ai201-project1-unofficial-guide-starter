@@ -77,13 +77,13 @@ https://www.reddit.com/r/ufl/comments/xnrfer/what_are_some_good_coffee_shopsplac
 |---|----------|-----------------|
 | 1 | | | What coffee shops do UF students recommend for studying?
 Expected answer: Everyone loves Opus and Pascal's. They are very close to campus and they are always packed. Opus has a location on campus and one close to campus.
-| 2 | | |  Is Pascal's Coffeehouse open late enough for a night study session?
+| 2 | | | 1 Is Pascal's Coffeehouse open late enough for a night study session?
 Expected answer: No — Pascal's closes at 5pm weekdays and 3pm Saturday, so it's not a good late-night option despite its great atmosphere.
-| 3 | | | What do students say about studying outdoors at UF?
+| 3 | | | 3 What do students say about studying outdoors at UF?
 Expected answer: Students love it, especially when the weather is nice. Plaza of the Americas is great for studying and spending time with friends. You won't see a lot of it during the winter months.
 | 4 | | | Do students recommend Opus Coffee at the Norman Hall location over other Opus locations?
 Expected answer: Yes because it's on the quieter outer edge of campus and is near sorority row, for those involved in Greek life. .
-| 5 | | | What are the downsides students mention about studying at Plaza of the Americas?
+| 5 | | | 2 What are the downsides students mention about studying at Plaza of the Americas?
 Expected answer: It's weather-dependent. Great in cooler months, but gets extremely hot in Florida summer, making it uncomfortable for outdoor studying.
 
 ---
