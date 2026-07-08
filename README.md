@@ -37,22 +37,22 @@
 | 9 | | | |
 | 10 | | | |
 
-https://sweetwatergainesville.com/resources/best-study-spots-uf/ 
-https://www.swamprentals.com/help-finding-apartments/gainesville-study-spots-near-campus
-https://gatorrentals.com/blog/best-study-spots-on-campus/
-https://www.staygainesville.com/uf-campus-insider-tips-best-study-spots-hidden-gems
-https://spoonuniversity.com/school/ufl/uf-s-best-coffee-shops-for-study-sessions-coffee-shop-in-gainesville/
-https://www.hercampus.com/school/ufl/5-gainesville-coffee-shops-to-visit-this-semester/
-https://www.collegemagazine.com/top-10-local-coffee-shops-that-all-uf-students-need-to-try/
-https://www.hercampus.com/school/ufl/gainesville-bucket-list/
-https://www.reddit.com/r/ufl/comments/oqbhhq/best_unknown_study_spots_on_campus/
-https://www.reddit.com/r/ufl/comments/16tqs1w/whats_your_favorite_place_to_study/
-https://www.reddit.com/r/ufl/comments/j0yaz0/pretty_outdoor_study_spots_around_gainesville/
-https://www.reddit.com/r/ufl/comments/xnrfer/what_are_some_good_coffee_shopsplaces_to_study_
-https://ufl.pb.unizin.org/ulaguide/chapter/library-west/
-https://spoonuniversity.com/school/ufl/a-peek-inside-coterie-market/
-https://www.theodysseyonline.com/review-uf-campus-libraries
-https://carlymccullough.com/2018/03/13/stress-free-study-spots-on-uf-campus/
+1. Sweetwater Gainesville | Blog |https://sweetwatergainesville.com/resources/best-study-spots-uf/ 
+2. Swamp Rentals | Webpage | https://www.swamprentals.com/help-finding-apartments/gainesville-study-spots-near-campus
+3. Gator Rentals | Webpage | https://gatorrentals.com/blog/best-study-spots-on-campus/
+4. Stay Gainesville | Blog | https://www.staygainesville.com/uf-campus-insider-tips-best-study-spots-hidden-gems
+5. Spoon University | Blog | https://spoonuniversity.com/school/ufluf-s-best-coffee-shops-for-study-sessions-coffee-shop-in-gainesville/
+6. Her Campus | Blog | https://www.hercampus.com/school/ufl/5-gainesville-coffee-shops-to-visit-this-semester/
+7. College Magazine | Blog | https://www.collegemagazine.com/top-10-local-coffee-shops-that-all-uf-students-need-to-try/
+8. Her Campus | Blog | https://www.hercampus.com/school/ufl/gainesville-bucket-list/
+9. Reddit | Forum | https://www.reddit.com/r/ufl/comments/oqbhhq/best_unknown_study_spots_on_campus/
+10. Reddit | Forum | https://www.reddit.com/r/ufl/comments/16tqs1w/whats_your_favorite_place_to_study/
+11. Reddit | Forum | https://www.reddit.com/r/ufl/comments/j0yaz0/pretty_outdoor_study_spots_around_gainesville/
+12. Reddit | Forum | https://www.reddit.com/r/ufl/comments/xnrfer/what_are_some_good_coffee_shopsplaces_to_study_
+13. PB University | Blog | https://ufl.pb.unizin.org/ulaguide/chapter/library-west/
+14. Spoon University | Blog | https://spoonuniversity.com/school/ufl/a-peek-inside-coterie-market/
+15. The Odyssey Online | Blog | https://www.theodysseyonline.com/review-uf-campus-libraries
+16. Carly McCullough | Blog | https://carlymccullough.com/2018/03/13/stress-free-study-spots-on-uf-campus/
 
 ---
 
